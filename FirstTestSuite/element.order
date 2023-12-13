@@ -1,0 +1,6 @@
+01_validateGetRequestOfReqRes.xml
+02_validateGetRequestOfSingleUserReqRes.xml
+03_validateGetRequestOfSingleUserNotFoundRegREs.xml
+POSTRequest.xml
+PUTRequest.xml
+DELETERequest.xml

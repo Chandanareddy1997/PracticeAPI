@@ -1,0 +1,12 @@
+https%3A%2F%2Freqres.in\%2Fapi%2Fusers.xml
+https%3A%2F%2Freqres.in-1\%2Fapi%2Fusers.xml
+https%3A%2F%2Freqres.in-2\%2Fapi%2Fusers.xml
+https%3A%2F%2Freqres.in-3\%2Fapi%2Fusers.xml
+https%3A%2F%2Freqres.in-4\%2Fapi%2Fusers.xml
+https%3A%2F%2Freqres.in-5\%2Fapi%2Fusers.xml
+FirstTestSuite\01_validateGetRequestOfReqRes.xml
+FirstTestSuite\02_validateGetRequestOfSingleUserReqRes.xml
+FirstTestSuite\03_validateGetRequestOfSingleUserNotFoundRegREs.xml
+FirstTestSuite\POSTRequest.xml
+FirstTestSuite\PUTRequest.xml
+FirstTestSuite\DELETERequest.xml
